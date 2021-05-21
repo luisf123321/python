@@ -1,2 +1,2 @@
-# python
+# Python - Curso
 Este Repositio es para organizar el matrieal de apendizaje y repaso en Python, fundamentos, estructuras, machine leaning etc...
